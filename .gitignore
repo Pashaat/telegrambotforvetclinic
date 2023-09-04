@@ -1,0 +1,5 @@
+venv/
+.idea/
+__qpysasha__/
+config.py
+vetbot.db/
